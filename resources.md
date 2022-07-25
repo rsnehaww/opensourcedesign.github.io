@@ -57,6 +57,7 @@ Some of these platforms also take submissions, so if you designed a font with an
 * [Gratisography](http://www.gratisography.com/)
 * [The Stocks](http://thestocks.im/)
 * [FreeImages](http://www.freeimages.com/)
+* [Jpeg compressor](https://jpegcompress.com)
 * [StockSnap](https://stocksnap.io/)
 * [FindA.Photo](http://finda.photo/)
 * [New York Public Library Public Domain
