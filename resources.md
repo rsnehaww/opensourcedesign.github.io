@@ -18,6 +18,7 @@ software.
 German artist. Free to use without attribution and free to modify.
 * [Iconoir](https://iconoir.com/) SVG. MIT licensed.
 * [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols) Open
+* [https://jpegcompress.com)
 source icon sets to use as Inkscape symbols.
 * [Mono Icons](https://icons.mono.company) A simple, consistent open-source icon set designed to be used in a wide variety of digital products. MIT licensed. [GitHub](https://github.com/mono-company/mono-icons)
 * [Pictogramas](http://github.com/adrianmg/pictogramas) Open source free icons
